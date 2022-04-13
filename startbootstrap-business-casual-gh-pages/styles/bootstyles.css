@@ -1,0 +1,47 @@
+header{ 
+    color: aliceblue;
+    font-size: larger;
+    position: relative;
+    margin: auto;
+    width: 50%;
+    border: 3px white;
+    padding-left: 10px;
+}
+
+body{ 
+    background-image: url("../images/bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.common{
+    font-size: xx-large;
+    font: bold;
+    color: white;
+}
+
+.leftcommon{
+    font-size: 25px;
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    margin: auto;
+    width: 50%;
+}
+
+a {
+    color: white;
+}
+
+footer{ 
+    color:aliceblue;
+    font-size: medium;
+    position: relative;
+    margin: auto;
+    width: 50%;
+    border: 3px white;
+    padding-left: 10px;
+}
+
+
